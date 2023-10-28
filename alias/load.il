@@ -5,7 +5,8 @@
 ;--------------------------
 
 alias( sel  geGetSelSet          )
-alias( cv   geGetEditCellView    )
+alias( ecv  geGetEditCellView    )
+alias( wcv  geGetWindowCellView  )
 alias( wind hiGetCurrentWindow   )
 alias( ciw  hiGetCIWindow        )
 alias( fg   leGetEditFigGroup    )
